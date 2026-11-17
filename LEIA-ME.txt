@@ -1,0 +1,11 @@
+KLAR — Landing page | Gradient 2026
+
+Abra index.html para visualizar localmente. Para publicar no Cloudflare Pages, envie o conteúdo desta pasta (index.html, styles.css, app.js, assets/ e videos/), preservando a estrutura.
+
+Abertura: proposta de valor e formulário de qualificação no primeiro bloco.
+Identidade: corvo original, fundo preto, branco e amarelo #FFD400; degradês suaves e pontilhados discretos.
+Vídeos: três arquivos locais em videos/.
+Formulário: abre WhatsApp +55 31 98915-5459 com briefing preenchido. O visitante precisa confirmar o envio no WhatsApp; o site não armazena os dados.
+Contatos: clarprodutora@gmail.com e Instagram @klarprodutora5.
+
+IMPORTANTE: O site público não é alterado automaticamente. Confira o e-mail e teste o envio do formulário antes de publicar.
